@@ -1,3 +1,13 @@
+# Change(s) in this fork:
+- Reordered snippets to match the order of the official Vue documentation
+  - https://vuejs.org/guide/introduction.html#single-file-components
+  - Script, Template, Style
+
+# Contributing
+- This is a single-focus fork of the original repo, so please contribute to the original repo if you can but if there's something you want to add to this fork, please do so here [github](https://github.com/lettucegoblin/vue-vscode-snippets-scripts-first). The goal is to have this fork pull from upstream whenever it's updated.
+
+# Original README.md
+
 # Vue VSCode Snippets
 
 ![vue-snippet-hero](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/vue-snippet-hero.gif)
